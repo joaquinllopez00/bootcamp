@@ -1,0 +1,13 @@
+GET https://www.w3.org/People/Berners-Lee/
+###
+GET https://cat-fact.herokuapp.com/facts/random?animal_type=cat
+###
+GET https://cat-fact.herokuapp.com/facts/random?animal_type=cat&amount=5
+###
+GET https://cat-fact.herokuapp.com/facts/random?animal_type=dog
+###
+GET https://pokeapi.co/api/v2/pokemon/pikachu
+###
+GET http://openlibrary.org/api/volumes/brief/isbn/0596156715.json
+###
+GET https://date.nager.at/api/v2/publicholidays/2020/US
